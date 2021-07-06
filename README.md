@@ -1,11 +1,11 @@
-## My Project
+# Using Scikit-Learn Pipelines with Amazon SageMaker
 
-TODO: Fill this README out!
+In this notebook, we will have a look at which features from Amazon SageMaker can help you bring your ML workloads based on Scikit-Learn, and in particular Scikit-Learn Pipelines, to the AWS cloud in order to create scheduled pipelines of preprocessing and training, as well as having endpoints for generating predictions in real-time.
+We will do this in three different modes, involving different features and complexity levels:
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Level 1: SKLearn Pipeline in the Training script
+Level 2 : Preprocessing with Processing, Training, Transformation & Inference in one Script
+Level 3 : SageMaker Inference Pipelines
 
 ## Security
 
